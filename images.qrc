@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icon/bold.png</file>
+        <file>icon/broken-link.png</file>
+        <file>icon/center-align.png</file>
+        <file>icon/close.png</file>
+        <file>icon/columns.png</file>
+        <file>icon/copy.png</file>
+        <file>icon/eraser.png</file>
+        <file>icon/export.png</file>
+        <file>icon/file.png</file>
+        <file>icon/file-1.png</file>
+        <file>icon/folder.png</file>
+        <file>icon/font.png</file>
+        <file>icon/import.png</file>
+        <file>icon/indent.png</file>
+        <file>icon/italic.png</file>
+        <file>icon/justify.png</file>
+        <file>icon/left-align.png</file>
+        <file>icon/link.png</file>
+        <file>icon/list.png</file>
+        <file>icon/list-1.png</file>
+        <file>icon/outdent.png</file>
+        <file>icon/paperclip.png</file>
+        <file>icon/paragraph.png</file>
+        <file>icon/paste.png</file>
+        <file>icon/preview.png</file>
+        <file>icon/print.png</file>
+        <file>icon/redo.png</file>
+        <file>icon/right-align.png</file>
+        <file>icon/save.png</file>
+        <file>icon/save-1.png</file>
+        <file>icon/scissors.png</file>
+        <file>icon/strikethrough.png</file>
+        <file>icon/subscript.png</file>
+        <file>icon/superscript.png</file>
+        <file>icon/table.png</file>
+        <file>icon/table-1.png</file>
+        <file>icon/text-height.png</file>
+        <file>icon/text-width.png</file>
+        <file>icon/underline.png</file>
+        <file>icon/undo.png</file>
+    </qresource>
+</RCC>
